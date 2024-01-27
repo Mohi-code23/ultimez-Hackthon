@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ULTIMEZ Web Page</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            color: #333; /* Keep the color */
+        }
+
+        .container {
+            width: 1223.33px;
+            height: 48px;
+            top: 36px;
+            left: 628px;
+            border-radius: 8px;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+        }
+
+        .ultimez {
+            width: 156.03px;
+            height: 25.1px;
+            top: 47px;
+            left: 77.22px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #333; /* Keep the color */
+            background: linear-gradient(130.63deg, #0003AA 24.11%, #5B0369 100.86%); /* Linear gradient background */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .navigation {
+            display: flex;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .navigation li {
+            margin-left: 20px;
+        }
+
+        .navigation li:first-child {
+            margin-left: 0;
+        }
+
+        .navigation li a {
+            text-decoration: none;
+            color: #333; /* Keep the color */
+            font-size: 18px;
+        }
+
+        .paragraph {
+            width: 846.66px; /* Adjust width as needed */
+            top: 243.54px;
+            left: 258px;
+            margin-top: 20px; /* Add space below ULTIMEZ layout */
+            padding: 20px;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif; /* Set font family */
+            font-size: 16px; /* Set font size */
+            line-height: 1.6; /* Set line height */
+            text-align: left; /* Set text alignment */
+            color: #333; /* Set text color */
+            background: linear-gradient(130.63deg, #0003AA 24.11%, #5B0369 100.86%); /* Linear gradient background */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="ultimez">ULTIMEZ</div>
+        <ul class="navigation">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Who We Are</a></li>
+            <li><a href="#">Solutions</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Case Studies</a></li>
+            <li><a href="#">Careers</a></li>
+            <li><a href="#">Contact Us</a></li>
+            <li><a href="#">Login</a></li>
+        </ul>
+    </div>
+    <div class="paragraph">
+        <p>Building The Digital Universe<br>
+        With every client we serve, we bring forth a deep passion for creative problem-solving and digital innovations - that's what we deliver. We've Great minds at work for the best technologies to make digital easy and impactful.</p>
+    </div>
+</body>
+</html>
